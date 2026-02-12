@@ -1,3 +1,4 @@
+package day3;
 import java.lang.classfile.instruction.StackInstruction;
 import java.util.HashMap;
 
